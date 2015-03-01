@@ -1,0 +1,19 @@
+{
+  "name": "es6-interop",
+  "version": "0.0.0",
+  "authors": [
+    "Mateus Ortiz <mateus.prado@ig.com.br>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
